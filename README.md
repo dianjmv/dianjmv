@@ -1,35 +1,68 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danny Rivadeneira
-=========================================================================================================================================
+# Danny Rivadeneira 👨‍💻
 
-Senior Developer
-----------------
+> Senior Developer passionate about building scalable solutions and continuous learning
 
-With over five years of experience in the software development landscape, I have a deep understanding of full-stack development, architecture design, and technical leadership. I began my professional journey as a freelancer, delivering custom web applications using Django and Laravel, before transitioning into more formal roles in various tech companies. My expertise spans multiple programming languages and frameworks, including Python, C#, JavaScript (Typescript), and Serverless technologies. I started my corporate career at NUO, where I played a key role in projects like electronic invoicing, medical records management, and warehouse management systems. My responsibilities included gathering client requirements, designing databases, and implementing services for various large-scale projects using technologies such as .NET, Angular, and SQL Server. At Evaluar.com, I gained valuable experience as a Full Stack Developer, where I contributed to the development of an all-in-one recruitment and selection platform. I took ownership of backend services, frontend development, and the creation of APIs leveraging frameworks like Laravel, Flask, and Vue.js. My work here demonstrated my ability to handle complex architectures while applying Test-Driven Development (TDD) principles and working with modern tools like DynamoDB, Redis, and Serverless frameworks. In my role at Lakpa, I led the migration of the company’s core application from Django v2 to NestJS, significantly improving scalability and performance. Additionally, I architected multiple projects using serverless frameworks and Next.js, optimizing the company's web solutions for efficiency and speed. Currently, as a Tech Lead at E-rol, a pioneering Ecuadorian startup, I am responsible for overseeing the technical strategy and execution. I led the migration of the company’s infrastructure to Kubernetes, designed and implemented CI/CD pipelines using GitHub Actions, and spearheaded the transition of frontend technologies from React to Next.js. Moreover, I successfully migrated a mobile application from React Native to native Kotlin and Swift, ensuring the platform could scale to meet increasing user demand. My technical stack includes a broad range of tools and frameworks such as Python (Flask, Django), JavaScript (React, Vue, Angular, Next.js), Serverless frameworks (AWS Lambda, DynamoDB, SQS), Kubernetes, GraphQL, and Redis. I am passionate about applying cutting-edge technologies and development methodologies to solve complex problems, optimize performance, and ensure scalability. In addition to my technical expertise, I am an avid reader with a love for horror and fantasy genres, and I continue to cultivate my passion for programming by always seeking opportunities to learn and grow within the ever-evolving tech industry.
+## 👋 About Me
 
-*   🌍  I'm based in Quit Ecuador
-*   🖥️  See my portfolio at [dannyrivadeneira.me](http://dannyrivadeneira.me)
-*   ✉️  You can contact me at [contact@dannyrivadeneira.me](mailto:contact@dannyrivadeneira.me)
-*   🚀  I'm currently working on [Evaluar](http://evaluar.com)
-*   🧠  I'm learning Rust and Ruby
-*   🤝  I'm open to collaborating on intersting projects
-*   ⚡  i love world of warcraft and i wish someday i could use nvim.### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-                    </p>
-                  ### Socials
-<p align="left">
-                      <a href="https://www.github.com/dianjmv" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/danny-joshue-rivadeneira-cruz-40b292b8/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/dianjmv"><img src="https://github-readme-stats.vercel.app/api?username=dianjmv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dianjmv's GitHub stats" /></a><a href="https://github.com/dianjmv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianjmv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+I'm a Senior Developer with 5+ years of experience in full-stack development and technical leadership. Currently leading technical strategy at E-rol and contributing to Evaluar.com, I specialize in architecting scalable solutions and implementing modern development practices.
+
+- 🌍 Based in Quito, Ecuador
+- 🚀 Working on [Evaluar](http://evaluar.com)
+- 🎯 Tech Lead experienced in migration and optimization projects
+- 🧠 Currently learning Rust and Ruby
+- 🎮 Love World of Warcraft and aspiring Neovim user
+- 📫 Contact: [contact@dannyrivadeneira.me](mailto:contact@dannyrivadeneira.me)
+- 🌐 Portfolio: [dannyrivadeneira.me](http://dannyrivadeneira.me)
+
+## 💼 Professional Experience
+
+- **E-rol (Current)** - Tech Lead
+  - Led infrastructure migration to Kubernetes
+  - Implemented CI/CD pipelines with GitHub Actions
+  - Migrated frontend from React to Next.js
+  - Transformed mobile app from React Native to native Kotlin/Swift
+
+- **Lakpa**
+  - Spearheaded migration from Django v2 to NestJS
+  - Architected serverless solutions with Next.js
+
+- **Evaluar.com**
+  - Developed recruitment platform using Laravel, Flask, and Vue.js
+  - Implemented TDD practices and serverless architecture
+
+## 🛠 Tech Stack
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Frameworks
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dianjmv&show_icons=true&count_private=true&hide=stars&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Danny's GitHub stats" />
+</div>
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-joshue-rivadeneira-cruz-40b292b8/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dianjmv)
