@@ -27,8 +27,19 @@ I'm a Senior Developer with 5+ years of experience in full-stack development and
   - Architected serverless solutions with Next.js
 
 - **Evaluar.com**
-  - Developed recruitment platform using Laravel, Flask, and Vue.js
-  - Implemented TDD practices and serverless architecture
+  - Developed core recruitment platform using Laravel, Flask, and Vue.js
+  - Built and scaled serverless architecture handling millions of daily requests
+  - Implemented advanced web scraping solutions using:
+    - Playwright for dynamic content extraction
+    - Puppeteer for automated data collection
+    - ZenRows for efficient large-scale scraping
+    - Custom solutions in both Python and TypeScript
+  - Developed AI-powered solutions:
+    - Profile recommendation system using LangChain, OpenAI, and Gemini
+    - Video interview assessment system with AI-based evaluation
+  - Applied TDD practices across all development cycles
+  - Designed and optimized serverless microservices architecture
+  - Implemented real-time data processing pipelines
 
 ## 🛠 Tech Stack
 
@@ -43,6 +54,12 @@ I'm a Senior Developer with 5+ years of experience in full-stack development and
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### AI & Automation
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
 ### Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
